@@ -52,7 +52,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://www.facebook.com/.git"
+    "url": "git+https://github.com/QuangTranHTC/.git"
   },
   "author": "AnthonyTran <quanghust96@gmail.com> (https://www.facebook.com/)",
   "license": "MIT",
